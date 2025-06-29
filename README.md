@@ -1,6 +1,6 @@
 # Hello there!! 👋
 
-Im a Software Engineer, interested in Web and Mobile Development.
+I'm a Software Engineer, interested in Web and Mobile Development.
 
 My most important projects up to date are the following:
 
@@ -9,13 +9,13 @@ My most important projects up to date are the following:
 - [Youtube clone | Wizeline Certification](https://unruffled-hugle-5b63cc.netlify.app/#/)
 - [Weather Maps | Get the weather of any location you pick](https://chrisnotdefined.github.io/WeatherMaps)
 
-Also you can take a look to other projects featuring technologies like **Flutter**, **React Native**, **Node** or **Angular**.
+Also, you can take a look at other projects featuring technologies like **Flutter**, **React Native**, **Node** or **Angular**.
 
 ## Interests
 
-- Im currently learning more cloud services inside AWS such as Lambda, Lex, Dynamo, CloudWatch.
-- Interested in Data Science as a seccondary skill.
-- I enjoy self-learning paths but I also recognize the advantages of active assisted learning in some cases.
+- Im currently learning more cloud services inside AWS, such as Lambda, Lex, Dynamo, and CloudWatch.
+- Interested in Data Science as a secondary skill.
+- I enjoy self-learning paths, but I also recognize the advantages of active assisted learning in some cases.
 
 ## Still curious?
 
